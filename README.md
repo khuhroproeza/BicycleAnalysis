@@ -56,6 +56,11 @@ The Project can also be run in Jupyter Notebook
 -Time taken by annotators
 
 
+## CLassification Model
+-Classification model is present in modelclassifcation Jupyter Notebook 
+-Images have been pickled into array and pickle file exists as data_save.pkl
+
+
 
 
 
